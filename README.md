@@ -6,3 +6,5 @@
 # <a href="https://github.com/kennycaiguo/web-font-end">前端开发</a>
 # <a href="https://github.com/kennycaiguo/awesome-css">awesome-css</a>
 # <a href="https://github.com/kennycaiguo/itcast-2">黑马程序员教程HTML CSS和JS练习</a>
+# <a href="https://github.com/kennycaiguo/AwesomeCssEffect">css效果学习</a>
+# <a href="https://github.com/kennycaiguo/awesomeCSS-1">Awesome CSS Variables</a>
